@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.jbpm</groupId>
   <artifactId>entrega-chequera</artifactId>
-  <version>1.05</version>
+  <version>1.07</version>
   <name>entrega-chequera</name>
   <repositories>
     <repository>
